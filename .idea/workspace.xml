@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04d7cf93-2f48-4821-835b-2f0d5c73677e" name="Default Changelist" comment="employee password">
+    <list default="true" id="04d7cf93-2f48-4821-835b-2f0d5c73677e" name="Default Changelist" comment="database design">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/EmployeeSchema.D5rnCg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/EmployeeSchema.D5rnCg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +43,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="employee password" />
-    <option name="LAST_COMMIT_MESSAGE" value="employee password" />
+    <MESSAGE value="database design" />
+    <option name="LAST_COMMIT_MESSAGE" value="database design" />
   </component>
 </project>
