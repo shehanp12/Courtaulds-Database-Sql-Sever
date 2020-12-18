@@ -18,15 +18,28 @@
   <component name="ProjectId" id="1lgBCVzQdjIcskUIhQc4cfxBonv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RunConfigurationTargetLRU" value="d6e53e2c-5bac-4061-997a-d181912735a5/database/&quot;Courtaulds&quot;/schema/&quot;EmployeeSchema&quot;" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/consoles/db/d6e53e2c-5bac-4061-997a-d181912735a5/console.sql" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DatabaseScript">
+      <script-mode>FILE</script-mode>
+      <data-source id="d6e53e2c-5bac-4061-997a-d181912735a5" namespace="database/&quot;Courtaulds&quot;/schema/&quot;EmployeeSchema&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TSqltConfigurationType" factoryName="tSQLt">
+      <option name="dataSourceId" value="d6e53e2c-5bac-4061-997a-d181912735a5" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
