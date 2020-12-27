@@ -18,9 +18,12 @@
             <node kind="database" qname="Courtaulds">
               <node kind="schema" qname="EmployeeSchema" />
             </node>
-            <node kind="database" qname="testDB">
+            <node kind="database">
+              <name qname="testDB" />
+              <name qname="Q" />
               <node kind="schema" qname="dbo" />
             </node>
+            <node kind="database" qname="sp" />
           </node>
         </introspection-scope>
       </schema-mapping>
