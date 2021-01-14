@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04d7cf93-2f48-4821-835b-2f0d5c73677e" name="Default Changelist" comment="boardingHouse">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/EmployeeSchema.D5rnCg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/EmployeeSchema.D5rnCg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/Courtaulds.vILUDA/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/testDB.kHC3yw/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6e53e2c-5bac-4061-997a-d181912735a5/storage_v2/_src_/database/testDB.kHC3yw/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +26,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="sqlserver&#10;mongo" />
+    <property name="DatabaseDriversLRU" value="mongo&#10;azure.ms&#10;azure&#10;sqlserver" />
     <property name="RunConfigurationTargetLRU" value="d6e53e2c-5bac-4061-997a-d181912735a5/database/&quot;Courtaulds&quot;/schema/&quot;EmployeeSchema&quot;" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="database.data.extractors.current.export.id" value="SQL-Insert-Statements.sql.groovy" />
     <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/consoles/db/d6e53e2c-5bac-4061-997a-d181912735a5/console.sql" />
   </component>
   <component name="RunManager">

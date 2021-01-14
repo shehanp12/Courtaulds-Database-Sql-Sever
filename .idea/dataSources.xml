@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Courtaulds@192.168.8.172" uuid="d6e53e2c-5bac-4061-997a-d181912735a5">
+    <data-source source="LOCAL" name="Courtaulds@192.168.1.107" uuid="d6e53e2c-5bac-4061-997a-d181912735a5">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://192.168.8.172\SQLEXPRESS:1433;database=Courtaulds</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://192.168.1.107 \SQLEXPRESS:1433;database=Courtaulds</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Azure SQL Database - boardinghub@boardinghub.database.windows.net" uuid="d5d4dde8-2a92-4a21-88e8-170fba3393d0">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://boardinghub.database.windows.net:1433;database=boardinghub</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
