@@ -1,5 +1,5 @@
 
-# BoardingHub Backend
+# BoardingHub Database
 
 
 
@@ -57,9 +57,8 @@ process as the need for printed paper advertisements will not be necessary.
 
 #### Technologies
 
-- Flutter
-- Ios
-- Android
+
+- Microsoft SQL Sever
 - The system proposed is going to be developed using several technologies. We are going
 to use flutter for the front end and node js for backend, ms sql for database and react for
 the admin panel. React allows developers to create large web applications that can
